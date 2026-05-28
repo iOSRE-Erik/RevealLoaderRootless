@@ -1,8 +1,8 @@
 Package: com.erik.revealloader
-Name: RevealLoader for 50
-Version: 1.0.0
+Name: RevealLoader for 24&50
+Version: 1.0.1
 Architecture: iphoneos-arm
-Description: Reveal(50)破解版请至公众号：玩机分享汇。RevealServer Loader for mac App Reveal v50 ，rootless and iOS15+!
+Description: Reveal破解版请至公众号：玩机分享汇。RevealServer Loader for mac App Reveal v50 & v24 ，rootless and iOS15+!
 Maintainer: Erik
 Author: Erik
 Section: Tweaks
